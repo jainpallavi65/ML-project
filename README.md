@@ -5,5 +5,5 @@ Usage instructions:
 The .py files contains wrangling, EDA, merging, and predictive modeling codes. 
 The Pdf file contains the project findings. 
 The cleaned datasets contains the wrangled files.
-The original datasets contains the originally downloaded files from Syntegra.io website.
+The original datasets contains the originally downloaded files.
 
